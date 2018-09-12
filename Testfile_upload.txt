@@ -6,3 +6,4 @@ Test file4
  new branch
 Test file5
 Test file6
+Test file7
